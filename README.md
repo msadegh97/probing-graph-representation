@@ -11,7 +11,7 @@ The notebooks folder contains the probing framework demo notebook. The Datasets 
 
 
 ## Cite
-
+```
 @inproceedings{akhondzadeh2023probing,
   title =      {Probing Graph Representation},
   author =      {Aleksandar Bojchevski and Stephan G{\"{u}}nnemann},
@@ -20,4 +20,5 @@ The notebooks folder contains the probing framework demo notebook. The Datasets 
   series =      {Proceedings of Machine Learning Research},
   publisher =      {PMLR},
 }
+```
 
